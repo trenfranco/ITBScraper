@@ -1,6 +1,6 @@
 # ITB Organization Scraper 🏢
 
-This script scrapes organization data from ITB's different categories and exports it to a CSV.
+This script scrapes 2500+ organization data from ITB's different categories and exports it to a CSV.\
 https://navigate.itb.com/
 
 ## Features
