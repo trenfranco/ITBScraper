@@ -8,3 +8,5 @@ https://navigate.itb.com/
 - Scrapes directly from the API to ensure efficiency
 - Handles API errors
 - Saves results as CSV
+
+  ![image](https://github.com/user-attachments/assets/64964782-583d-429d-a59b-3f4c3df815c8)
